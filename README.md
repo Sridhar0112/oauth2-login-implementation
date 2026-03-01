@@ -1,9 +1,3 @@
-Here is a clean, professional **README.md** tailored exactly to your Maven configuration and OAuth2 setup.
-
-You can copy this directly into your repository.
-
----
-
 # Spring Boot OAuth2 Login Demo
 
 ## 📌 Overview
